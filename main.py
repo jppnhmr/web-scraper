@@ -43,5 +43,3 @@ if __name__ == "__main__":
 
     for job in jobs_dict.items():
         print(job)
-
-    #"<a class="preventLink" itemprop="url" href="/remote-jobs/LINK-NUMBER"> <h2 itemprop="title"> TITLE </h2> </a>"
