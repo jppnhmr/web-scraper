@@ -49,8 +49,7 @@ class Job:
         
     def get_keywords(self):
         return self.keywords_found
-
-                
+           
 def get_soup(url):
     try:
         response = requests.get(url)
